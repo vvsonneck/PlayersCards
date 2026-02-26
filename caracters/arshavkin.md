@@ -8,5 +8,6 @@ __Ilyuha Arshavkin__
 3. Бегает со скоростью света
 ## Фото:
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/39788698-8609-428d-9b5a-5e0cb91b9c0d" />
+
 ## Рейтинг:
 6/10
